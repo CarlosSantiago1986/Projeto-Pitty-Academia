@@ -1,0 +1,57 @@
+body{
+	margin: 0px;
+	background-image: url(Bloco.avif);
+	background-size: cover;
+	
+}
+
+#MenuSuperior{
+	background-color: #fc4b08;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+}
+#logo{
+	border-radius: 40px;
+}
+
+#Peso{
+	position: absolute;
+	margin-left: 73%;
+	
+}
+
+#Medida{
+	position: absolute;
+	margin-left: 77%;
+	
+}
+
+#Editar{
+	position: absolute;
+	margin-left: 82%;
+	
+}
+
+#Mapa{
+	position: absolute;
+	margin-left: 87%;
+	
+}
+
+#Principal{
+	position: absolute;
+	margin-left: 90%;
+	
+}
+
+#coments{
+	position: absolute;
+	width: 1000px;
+	height: 400px;
+	border: 3px solid black;
+	margin-left: 100px;
+	margin-top: 100px;
+	background-color: white;
+	opacity: 0.7;
+}

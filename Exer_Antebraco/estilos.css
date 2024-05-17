@@ -1,0 +1,166 @@
+body{
+	background-color: #fc4b08;
+	font-family: "arial";
+}
+
+#logoimg{
+	width: 10%;
+	height: 20%;
+	border-radius: 120%;
+	position: absolute;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+#menuHor{
+	position: absolute;
+	margin-top: 10%;
+	width: 20%;
+	height: 70%;
+	font-size: 100%;
+	justify-content: center;
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	justify-content: center;
+	
+}
+
+#alu{
+	position: absolute;
+	margin-top: 20%;
+	text-align: center;
+	margin-left: 23%;
+	justify-content: center;
+}
+
+#exer{
+	position: absolute;
+	margin-top: 40%;
+	text-align: center;
+	margin-left: 23%;
+	justify-content: center;
+}
+
+#trei{
+	position: absolute;
+	margin-top: 60%;
+	text-align: center;
+	margin-left: 23%;
+	justify-content: center;
+}
+
+#map{
+	position: absolute;
+	margin-top: 80%;
+	text-align: center;
+	margin-left: 23%;
+	justify-content: center;
+}
+
+#central{
+	position: absolute;
+	width: 90%;
+	height: 90%;
+	background-image: url("Pitty.jpg");
+	margin-left: 15%;
+	margin-top: 4%;
+}
+
+#titulo{
+	color: white;
+	width: 40%;
+	height: 7%;
+	background-color: black;
+	border: white 3px solid;
+	text-align: center;
+	position: absolute;
+	font-size: 200%;
+	margin-left: 25%;
+}
+
+#nomeExer{
+	position: absolute;
+	opacity: 0.7;
+	width: 60%;
+	height: 70%;
+	background-color: white;
+	border-radius: 20px;
+	border: 5px solid black;
+	margin-left: 15%;
+	margin-top: 10%
+}
+#add{
+	position: absolute;
+	width: 7%;
+	height: 7%;
+	border: none;
+	margin-left: 85%;
+	margin-top: 5%;
+}
+#addimg{
+	width: 100%;
+	height: 100%;
+}
+
+#busca{
+	background-color: grey;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 3%;
+}
+
+#busca1{
+	background-color: black;
+	color: white;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 30%;
+
+}
+
+.lixeira{
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.apagar{
+	width: 15%;
+	height: 15%;
+	border: none;
+}
+
+table{
+	font-weight: bold;
+	font-size: 20px;
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 3%;
+}
+
+#coluna1B{
+	margin-left: 144%;
+}
+
+#coluna2B{
+	margin-left: 144%;
+}
+
+#coluna3B{
+	margin-left: 144%;
+}
+
+#coluna4B{
+	margin-left: 144%;
+}
+
+#coluna5B{
+	margin-left: 144%;
+}
+
+
+	
