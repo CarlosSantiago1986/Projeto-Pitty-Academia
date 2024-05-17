@@ -1,0 +1,64 @@
+body{
+	background-color: #fc4b08
+}
+
+#logo{
+	border-radius: 	100px;
+}
+
+#linkLogo{
+	margin-left: 2%;
+}
+
+#linkVoltar{
+	margin-left: 85%;
+	margin-top: 0%;
+	position: absolute;		
+}
+
+#MenuSuperior{
+    height: 20%;
+	
+}
+
+#MenuCentral{
+	background-image:url("Pitty.jpg");
+	background-size: cover;	
+	margin-left: -20px;
+	margin-right: -20px;
+	width: 100%;
+	height: 100%;
+	position: absolute;	
+	
+}
+
+#alunos{
+
+}
+
+#exercicios{
+ margin-left: 50px;
+}
+
+#treinos{
+
+}
+
+#mapa{
+ margin-left: 50px;
+}
+
+.botaoPrincipal{
+	width: 	400px;
+	height:	70px;
+	border: 5px solid black;
+	font-family: "Arial";
+	font-size: 20px;
+	font-weight: bold;	
+}
+
+#MenuBotao{
+	margin-left: 20%;
+	margin-top: 10%;
+	position: absolute;	
+}
