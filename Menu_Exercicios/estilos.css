@@ -1,0 +1,101 @@
+body{
+	margin: 0px;
+	background-image: url(Pitty.jpg);
+	background-size: cover;
+	
+}
+
+#MenuSuperior{
+	background-color: #fc4b08;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+}
+#logo{
+	border-radius: 40px;
+}
+
+#Peso{
+	position: absolute;
+	margin-left: 73%;
+	
+}
+
+#Medida{
+	position: absolute;
+	margin-left: 77%;
+	
+}
+
+#Editar{
+	position: absolute;
+	margin-left: 82%;
+	
+}
+
+#Mapa{
+	position: absolute;
+	margin-left: 87%;
+	
+}
+
+#Principal{
+	position: absolute;
+	margin-left: 90%;
+	
+}
+
+#MenuCentral{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 100px;
+	width: 40%;
+	height: 10%;
+}
+
+#treinoA{
+	position: absolute;
+	width: 900px;
+	height: 50px;
+	margin-top: 0px; 
+	border-radius: 10px;
+    font-family: "arial";
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#treinoB{
+	position: absolute;
+	width: 900px;
+	height: 50px;
+	margin-top: 150px;
+	border-radius: 10px;
+    font-family: "arial";
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+#treinoC{
+	position: absolute;
+	width: 900px;
+	height: 50px;
+	margin-top: 300px;
+	border-radius: 10px;
+    font-family: "arial";
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+#Coment{
+	position: absolute;
+	width: 900px;
+	height: 50px;
+	margin-top: 450px;
+	border-radius: 10px;
+    font-family: "arial";
+    font-size: 30px;
+    font-weight: bold;
+}
