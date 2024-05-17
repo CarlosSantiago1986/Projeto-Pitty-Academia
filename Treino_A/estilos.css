@@ -1,0 +1,94 @@
+body{
+	margin: 0px;
+	background-image: url(Pitty.jpg);
+	background-size: cover;
+	
+}
+
+#MenuSuperior{
+	background-color: #fc4b08;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+}
+#logo{
+	border-radius: 40px;
+}
+
+#Peso{
+	position: absolute;
+	margin-left: 73%;
+	
+}
+
+#Medida{
+	position: absolute;
+	margin-left: 77%;
+	
+}
+
+#Editar{
+	position: absolute;
+	margin-left: 82%;
+	
+}
+
+#Mapa{
+	position: absolute;
+	margin-left: 87%;
+	
+}
+
+#Principal{
+	position: absolute;
+	margin-left: 90%;
+	
+}
+
+#Titulo{
+	background-color: white;
+	width: 500px;
+	height: 35px;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 70px;
+	font-family: "arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#tabela{
+	background-color: white;
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 150px;
+	font-family: "arial";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 10px;
+}
+
+table{
+	font-family: "arial";
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+button{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: -80px;
+	background-color: grey;
+	border: 1px solid black;
+	width: 150px;
+	height: 40px;
+	font-family: "arial";
+	font-size: 20px;
+}
