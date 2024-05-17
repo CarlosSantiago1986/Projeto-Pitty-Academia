@@ -1,0 +1,104 @@
+body{
+	margin: 0px;
+	background-image: url(medidaback.jpg);
+	background-size: cover;
+	
+}
+
+#MenuSuperior{
+	background-color: #fc4b08;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+}
+#logo{
+	border-radius: 40px;
+}
+
+#Peso{
+	position: absolute;
+	margin-left: 73%;
+	
+}
+
+#Medida{
+	position: absolute;
+	margin-left: 77%;
+	
+}
+
+#Editar{
+	position: absolute;
+	margin-left: 82%;
+	
+}
+
+#Mapa{
+	position: absolute;
+	margin-left: 87%;
+	
+}
+
+#Principal{
+	position: absolute;
+	margin-left: 90%;
+	
+}
+
+#medidas{
+	margin-top: 5%;
+	margin-left: 3%;
+	position: absolute;
+	width: 95%;
+	height: 90%;
+}
+
+.dir{
+	position: absolute;
+	margin-left: 3%;
+}
+
+.esq{
+	position: absolute;
+	margin-left: 50%;
+}
+
+.caixa{
+	font-family: "arial";
+	font-size: 100%;
+	width: 40%;
+	height: 10%;
+	background-color: white;
+	border: 2px solid black;
+
+}
+
+#alt{
+	position: absolute;
+	margin-top: 10%
+}
+
+#tor{
+	position: absolute;
+	margin-top: 20%
+}
+
+#cint{
+	position: absolute;
+	margin-top: 30%
+}
+
+#cox{
+	position: absolute;
+	margin-top: 10%
+}
+
+#pant{
+	position: absolute;
+	margin-top: 20%
+}
+
+#qua{
+	position: absolute;
+	margin-top: 30%
+}

@@ -1,0 +1,59 @@
+body{
+	margin: 0px;
+	background-image: url(bussola.jpg);
+	background-size: cover;
+	
+}
+
+#MenuSuperior{
+	background-color: #fc4b08;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+}
+#logo{
+	border-radius: 40px;
+}
+
+#Peso{
+	position: absolute;
+	margin-left: 73%;
+	
+}
+
+#Medida{
+	position: absolute;
+	margin-left: 77%;
+	
+}
+
+#Editar{
+	position: absolute;
+	margin-left: 82%;
+	
+}
+
+#Mapa{
+	position: absolute;
+	margin-left: 87%;
+	
+}
+
+#Principal{
+	position: absolute;
+	margin-left: 90%;
+	
+}
+
+#central
+{
+	background-color: black;
+	position: absolute;
+	width: 90%;
+	height: 90%;
+	border-radius: 20px;
+	margin-left: 7%;
+	margin-top: 5%;
+	background-image: url(mapaAcad.jpg);
+	background-size: cover;
+}
