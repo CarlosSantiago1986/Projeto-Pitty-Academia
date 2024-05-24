@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitty Login</title>
+    <style>
+        body {
+            background-color:orangered;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .login-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form action="LOGIN_ALUNO.php" method="post">
+            <label for="username">Usuário:</label><br>
+            <input type="text" id="username" name="username" required><br>
+
+            <label for="password">Senha:</label><br>
+            <input type="password" id="password" name="password" required><br><br>
+
+            <input type="submit" value="Login">
+        </form>
+        <br><br><a href="index.html"><button type='button'>VOLTAR</button></a><br><br>
+    </div>
+</body>
+</html>
